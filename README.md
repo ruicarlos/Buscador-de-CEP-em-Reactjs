@@ -9,5 +9,5 @@ Nesse projeto ao informar um cep e clicar na lupa, a api ir√° consumir um servi√
 ### `Consultando CEP`
 
 Para Testar esse projeto basta acessar https://busca-cep-pink.vercel.app
-ou  [Clicar aqui](https://busca-cep-pink.vercel.app/).
+ou  [Clique aqui](https://busca-cep-pink.vercel.app/).
 
